@@ -1,0 +1,16 @@
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.exe
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.deps.json
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.runtimeconfig.json
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.runtimeconfig.dev.json
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.dll
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\ref\Chat-Client.dll
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\bin\Debug\net5.0\Chat-Client.pdb
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.csprojAssemblyReference.cache
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.AssemblyInfoInputs.cache
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.AssemblyInfo.cs
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.csproj.CoreCompileInputs.cache
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.dll
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\ref\Chat-Client.dll
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.pdb
+C:\Users\Latitude-5490\source\repos\Chat-Client\Chat-Client\obj\Debug\net5.0\Chat-Client.genruntimeconfig.cache
